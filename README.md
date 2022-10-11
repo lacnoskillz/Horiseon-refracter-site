@@ -15,3 +15,7 @@ refactored the site to make it more accessible. consolidated code and debugged. 
 #### Screen shot
 ***
 ![](assets/images/Screenshot.png)
+##### Link
+***
+click for deployed app
+[click me](https://lacnoskillz.github.io/Kaisweek1challenge/)
