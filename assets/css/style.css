@@ -27,7 +27,7 @@ body {
     color: #d9dcd6;
 }
 /*Top right font sizing and padding set*/
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,12 +36,12 @@ body {
     
 }
 /*?*/
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
 /*puts the headers "search eng/online/social" inline and to the right of screen*/
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
